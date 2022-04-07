@@ -1,6 +1,6 @@
 # cluster-run-script
 
-This crtipt allows you to change ip address of your cluster in ~/.kune/config file each time you run your ec2  instances
+This scrtipt allows you to change ip address of your cluster in ~/.kune/config file each time you run your ec2  instances
 
 How does it works:
 in script file you need to provide ID of ec2 instaces
