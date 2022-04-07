@@ -3,7 +3,7 @@
 #Specify id of your instaces
 instid1=i-xxx #Master
 instid2=i-xxx #Worker1
-instid3=i-xxx#Worker2
+instid3=i-xxx #Worker2
 
 #getting old and new ip of instances
 oldip=$(cat ~/.script/oldip.txt)
