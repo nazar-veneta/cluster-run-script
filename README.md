@@ -20,10 +20,11 @@ How to set it up:
     with:
       insecure-skip-tls-verify: true
 4. Copy IP address from line:
-    server: https://*.*.*.*:6443
+    server: https://x.x.x.x:6443
 6. You need to change in both script files ID of your master and worker ec2 instances from AWS cloud
 7. Insert IP from config file into oldip.txt
     (inside of file should be only opne ip adres and nothing more, one line of text)
+    x.x.x.x
 
 To make it to work you need to copy files into ~/.script folder
 
