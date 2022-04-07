@@ -1,9 +1,9 @@
 #!/bin/bash
 
 #Specify id of your instaces
-instid1=i-00d6e4d2a4ee40444 #Master
-instid2=i-06eb528e81ff5d862 #Worker1
-instid3=i-04f6fc3de5af5bba8 #Worker2
+instid1=i-xxx #Master
+instid2=i-xxx #Worker1
+instid3=i-xxx #Worker2
 
 #getting new and old ip
 oldip=$(cat ~/.script/oldip.txt)
